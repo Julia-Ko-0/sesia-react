@@ -1,0 +1,11 @@
+
+.im{
+    width: 70%;
+    grid-row-start: 2;
+}
+.div_f{
+    display: grid;
+    height:  700px;
+    grid-template-rows: 10% 80%;
+
+}
